@@ -1,0 +1,15 @@
+- CheminSrc
+- DossierSauvegardes
+- DossierSauvegardesIncert
+- SuffixeArchive
+- SuffixeCopie
+- SuffixeBdOuverte
+- SuffixeBdOuverteCompactee
+- SuffixeBdFermee
+- FormatVersionsRoulement
+- FormatVersionsArch
+- PeriodeArchJours
+- NbVersionsRoulement
+- CheminTrace
+- MotDePasse
+- CompactRepair
